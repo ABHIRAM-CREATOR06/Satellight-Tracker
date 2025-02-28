@@ -17,7 +17,7 @@ This project integrates with:
 ✅ **Seamless execution** via a Python-based GUI.  
 ✅ **Cross-platform compatibility** (Windows, Linux, macOS).  
 ✅ **Modern glassmorphism UI** for documentation.  
-✅ **CC0-1.0 Licensed** – Open for public domain use.  
+✅ **MIT License** – Open for public domain use.  
 
 ---
 
