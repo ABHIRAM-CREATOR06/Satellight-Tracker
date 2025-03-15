@@ -1,6 +1,6 @@
 # 🌍 Satellight Tracker 🚀  
 
-*A Terminal User Interface (TUI) application for real-time satellite tracking.*  
+*A Terminal User Interface (TUI) application for real-time satellite tracking with a website leading to downlaod page*  
 
 ## 📌 Overview  
 Satellight Tracker is a **Rust-based TUI application** that provides real-time satellite trajectory tracking.  
