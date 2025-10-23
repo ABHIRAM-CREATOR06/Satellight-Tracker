@@ -29,7 +29,7 @@ Run the following command in your terminal:
 git clone https://github.com/ABHIRAM-CREATOR06/Satellight-Tracker.git  
 cd Satellight-Tracker  
 ```
-###2️⃣ Install Rust & Dependencies
+### 2️⃣ Install Rust & Dependencies
 Ensure Rust & Cargo are installed. If not, install them using:
 ```sh
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh  
@@ -40,7 +40,7 @@ Then Navigate to Project Directory
 cd rust_project_directory  # Replace with the actual directory name  
 cargo build  
 ```
-###3️⃣ Run the code 
+### 3️⃣ Run the code 
 ```sh
 cargo run
 ```
